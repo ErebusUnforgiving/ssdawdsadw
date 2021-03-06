@@ -1,0 +1,7 @@
+{
+    "TOKEN": "BOTTOKENİ",
+    "PREFIX": "!",
+    "mongoDB": "MONGODBTOKEN",
+    "FOOTER": "Sponsor: Void Development [voiddevs.org]",
+    "owners": "sahipid"
+}
